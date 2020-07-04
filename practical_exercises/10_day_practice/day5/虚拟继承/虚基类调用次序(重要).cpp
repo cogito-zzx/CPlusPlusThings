@@ -1,4 +1,4 @@
-//��Ҫ!!!
+//ÖØÒª!!!
 #include <iostream>
 using namespace std;
 class A {
@@ -29,3 +29,12 @@ int main(){
     system("pause");
     return 0;
 }
+/*
+Constructing B
+Constructing A
+Constructing B1
+Constructing A
+Constructing B2
+Constructing A
+Constructing D
+*/
